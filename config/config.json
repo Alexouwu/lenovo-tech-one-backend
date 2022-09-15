@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "lenovo_database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "db75629a4937",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "beemexico_lenovo_tech_2022",
+    "password": "lenovo-tech2022",
+    "database": "beemexico_lenovo_tech_2022",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "send_notification": {
+    "start_date": "2022-03-14 00:00:00",
+    "end_date": "2022-03-14 23:59:59"
+  }
+}
